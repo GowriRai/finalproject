@@ -1,0 +1,40 @@
+{
+  "mcpServers": {
+    "clickhouse": {
+      "command": "D:\\finalproject\\sampleenv\\Scripts\\mcp-clickhouse.exe",
+      "env": {
+        "CLICKHOUSE_HOST": "172.28.172.119",
+        "CLICKHOUSE_PORT": "8123",
+        "CLICKHOUSE_USER": "default",
+        "CLICKHOUSE_PASSWORD": "",
+        "CLICKHOUSE_DATABASE": "mystocks_db",
+        "CLICKHOUSE_SECURE": "false",
+        "CLICKHOUSE_VERIFY": "false",
+        "CLICKHOUSE_ALLOW_WRITE_ACCESS": "true"
+      }
+    }
+  },
+  "coworkUserFilesPath": "C:\\Users\\raipr\\Claude",
+  "preferences": {
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": false,
+    "bypassPermissionsGateByAccount": {
+      "7e2085ce-d013-499a-b51e-e975d047cb49": false
+    },
+    "coworkWebSearchEnabled": true,
+    "remoteToolsDeviceName": "victus",
+    "epitaxyPrefs": {
+      "starred-local-code-sessions": [],
+      "starred-cowork-spaces": [],
+      "starred-session-groups": [],
+      "dframe-local-slice": {
+        "pinnedOrder": [],
+        "customGroupAssignments": {},
+        "customGroupOrder": {}
+      }
+    },
+    "coworkModelAutoFallbackByAccount": {
+      "7e2085ce-d013-499a-b51e-e975d047cb49": true
+    }
+  }
+}
